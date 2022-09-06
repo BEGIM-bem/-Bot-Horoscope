@@ -1,4 +1,4 @@
-#Bot Horoscope
+# Bot Horoscope
 
 In this gothoscope you can get information about your sign and what awaits you today
 
