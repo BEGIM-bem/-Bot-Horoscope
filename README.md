@@ -24,6 +24,7 @@ Navigate to the extracted folder
 
      npm install   
 ![ссылка на мой канал](./img/telegraf.png)
+
 In the new Telegraf field, put the token that you will receive from the telegrams of the @BotFather bot
 
 
