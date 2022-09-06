@@ -19,9 +19,12 @@ Navigate to the extracted folder
 
     cd -Bot-Horoscope
 
- Install the dependencies and modules    
+ __Install the dependencies and modules__    
 
      npm install   
+![ссылка на мой канал](../telegraf.png)
+In the new Telegraf field, put the token that you will receive from the telegrams of the @BotFather bot
+
 
 __Usage__
 
