@@ -3,9 +3,10 @@
 In this gothoscope you can get information about your sign and what awaits you today
 
 __Built With__
+- JavaScript
 - Axios
 - Telegraf
-- JavaScript
+- Nodemon
 
 __Install__
 
