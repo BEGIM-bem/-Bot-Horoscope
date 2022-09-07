@@ -1,5 +1,4 @@
-const { filter } = require('./token')
-const bot = require('./token')
+
 module.exports.Z = ['Aries', "Taurus", 'Gemini', 'Cancer', 'Leo', 'Virgo', 'Libra', 'Scorpio', 'Sagittarius',
     'Capricorn', 'Aquarius', 'Pisces']
 module.exports.tell = {}
